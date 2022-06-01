@@ -130,3 +130,4 @@ tmp
 wheel
 /sherlock/features/*.npy
 *.csv
+.Rhistory
